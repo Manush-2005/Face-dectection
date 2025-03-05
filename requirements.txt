@@ -2,4 +2,3 @@ fastapi
 uvicorn
 pydantic
 deepface
-tf-keras
